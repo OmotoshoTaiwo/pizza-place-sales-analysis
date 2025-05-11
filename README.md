@@ -64,8 +64,15 @@ Beyond the core questions, additional visualizations and trends were explored to
 
 ## 🚀 Getting Started
 
-To replicate or extend this analysis:
+- To replicate or extend this analysis:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/pizza-place-sales-analysis.git
+   git clone https://github.com/OmotoshoTaiwo/pizza-place-sales-analysis.git
+
+  #DataAnalysis #Python #Pandas #PizzaSales #JupyterNotebook #EDA #BusinessInsights #Visualization #SalesTrends #FoodAnalytics
+
+ 📬 Contact
+- Author: Omotosho Taiwo Segun
+- Email: omotoshootaiwo@gmail.com
+- LinkedIn: www.linkedin.com/in/taiwo-omotosho-data-analytics
